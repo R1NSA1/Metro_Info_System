@@ -1,0 +1,21 @@
+# Файлы IDE
+.idea/
+*.iml
+*.iws
+.vscode/
+
+# Собранные артефакты
+target/
+build/
+out/
+*.jar
+*.war
+*.class
+
+# Файлы БД (например, H2)
+*.db
+*.log
+
+# Системные файлы
+.DS_Store
+Thumbs.db
